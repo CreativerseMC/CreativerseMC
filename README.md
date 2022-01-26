@@ -6,8 +6,9 @@ We host a public server on Java edition Minecraft 1.17.1 at **137.74.246.121:255
 This is hosted using the Kovan testnet, you can get Kovan testnet ETH at https://faucets.chain.link/kovan
 
 ### Running your own Creativerse server
-All you need are 3 plugins:
+All you need are 4 plugins:
 - [Worldedit](https://dev.bukkit.org/projects/worldedit)
+- [AsyncWorldEdit](https://www.spigotmc.org/resources/asyncworldedit.327/)
 - [PlotSquared v6](https://www.spigotmc.org/resources/plotsquared-v6.77506/)
 - [Creativerse](https://github.com/CreativerseMC/CreativerseMC-Plugin/releases)
 
