@@ -19,3 +19,4 @@ The website used to facilitate ETH transactions also has its source code public 
 
 # Socials
 - Twitter: https://twitter.com/CreativerseMC
+- Discord: https://discord.gg/FHAZcVfxDn
