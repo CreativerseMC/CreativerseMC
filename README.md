@@ -15,8 +15,11 @@ All you need are 4 plugins:
 ### Source Code
 All the source code for the plugin and the smart contract is public at https://github.com/CreativerseMC/CreativerseMC-Plugin
 
-The website used to facilitate ETH transactions also has its source code public at https://github.com/CreativerseMC/CreativerseMC.github.io
+The website used to facilitate ETH transactions also has its source code public at https://github.com/CreativerseMC/Creativerse-React-Website
+
+You can also see a base pure html/javascript version of the website at https://github.com/CreativerseMC/CreativerseMC.github.io
 
 # Socials
+- Website: https://CreativerseMC.com
 - Twitter: https://twitter.com/CreativerseMC
 - Discord: https://discord.gg/FHAZcVfxDn
