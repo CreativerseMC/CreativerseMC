@@ -30,3 +30,4 @@ You can also see a base pure html/javascript version of the website at https://g
 - Website: https://CreativerseMC.com
 - Twitter: https://twitter.com/CreativerseMC
 - Discord: https://discord.gg/FHAZcVfxDn
+- Reddit Account: https://www.reddit.com/user/CreativerseMC
