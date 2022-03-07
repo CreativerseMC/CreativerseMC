@@ -1,7 +1,7 @@
 # Welcome to the Creativerse
 
 ### Public Server
-We host a public server on Java edition Minecraft 1.17.1 at **137.74.246.121:25589**
+We host a public server on Java edition Minecraft 1.18 at **137.74.246.121:25589**
 
 This is hosted using the Kovan testnet, you can get Kovan testnet ETH at https://faucets.chain.link/kovan
 
