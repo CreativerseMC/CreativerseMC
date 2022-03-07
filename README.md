@@ -6,7 +6,7 @@ We host a public server on Java edition Minecraft 1.17.1 at **137.74.246.121:255
 This is hosted using the Kovan testnet, you can get Kovan testnet ETH at https://faucets.chain.link/kovan
 
 ### Running your own Creativerse server
-You need to run a Bukkit/Spigot server. I recommend using [PaperMC](https://papermc.io/). Use a 1.18 version.
+You need to run a Bukkit/Spigot server. I recommend using [PaperMC](https://papermc.io/)
 
 All you need are 4 plugins:
 - [Worldedit](https://dev.bukkit.org/projects/worldedit)
